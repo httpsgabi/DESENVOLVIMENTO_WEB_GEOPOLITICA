@@ -1,7 +1,7 @@
 COLTEC - Colégio Técnico da UFMG
 
-Desenvolvimento do site com foco na apresentação do trabalho de Geopolítica.
-Tema: Ditadura Militar
+<h1 align="center">Desenvolvimento do site com foco na apresentação do trabalho de Geopolítica</h1>
+<h2>Tema: Ditadura Militar<h2>
 
 Integrantes:
 
