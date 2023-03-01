@@ -1,6 +1,15 @@
 @charset "UTF-8";
 
 #h1{
-    color: aliceblue;
+    text-align: center;
+    color: #ffffff;
     size: 20%;
+}
+
+#div{
+    background-color: #ffffff;
+}
+
+#p{
+    text-align: center;
 }
