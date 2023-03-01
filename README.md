@@ -1,9 +1,9 @@
 <h1 align="center">Desenvolvimento do site para a apresentação do trabalho de Geopolítica</h1>
-<h2>Tema: Ditadura Militar</h2>
+<h2 align="center">Tema: Ditadura Militar</h2>
 
-<p>Integrantes:</p>
+<h2>Integrantes:</h2>
 
-<h3>Guilherme Luiz Gonzaga</h3>
+<p>Guilherme Luiz Gonzaga<p>
 <p>Gabrielle Maia de Andrade Souza</p>
 <p>Kaio Fernandes Ferreira Nunes</p>
 
