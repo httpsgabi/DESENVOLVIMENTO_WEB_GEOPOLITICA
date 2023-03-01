@@ -1,10 +1,10 @@
-<h1 align="center">Desenvolvimento do site com foco na apresentação do trabalho de Geopolítica</h1>
-<h2>Tema: Ditadura Militar<h2>
+<h1 align="center">Desenvolvimento do site para a apresentação do trabalho de Geopolítica</h1>
+<h2>Tema: Ditadura Militar</h2>
 
-Integrantes:
+<p>Integrantes:</p>
 
-<p>Guilherme Luiz Gonzaga<p>
-<p>Gabrielle Maia de Andrade Souza<p>
-<p>Kaio Fernandes Ferreira Nunes<p>
+<h3>Guilherme Luiz Gonzaga</h3>
+<p>Gabrielle Maia de Andrade Souza</p>
+<p>Kaio Fernandes Ferreira Nunes</p>
 
-<p>COLTEC - Colégio Técnico da UFMG<p>
+<p>COLTEC - Colégio Técnico da UFMG</p>
