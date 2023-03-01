@@ -7,4 +7,4 @@
 <p>Gabrielle Maia de Andrade Souza</p>
 <p>Kaio Fernandes Ferreira Nunes</p>
 
-<p>COLTEC - Colégio Técnico da UFMG</p>
+<p aling="center">COLTEC - Colégio Técnico da UFMG</p>
